@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It keeps inventory of all the items in your chests in the game Minecraft. So when you have to build a large scale building or simply have too much to normally count, this app helps with that. Has a simple search function too. The following is a simple way to run it on local host, but you are welcome to use the vercel deployment link above (which links to a random firebase database I have).
 
 ## Getting Started
 
